@@ -1,0 +1,33 @@
+.profile-info-container{
+    width: 600px;
+    border: 2px solid darkgray;
+}
+.color-bar{
+    background-color: rgb(66, 66, 255);
+    height: 90px;
+}
+.profile-details{
+    margin-top: 0px;
+    margin-left: 40px;
+
+}
+h4{
+    margin-top: 10px 0px;
+}
+.icon-images{
+    height: 10px;
+    width: 10px;
+}
+#user-icon{
+    position: relative;
+    top: -20px;
+    height: 60px;
+    width: 60px;
+    margin-left: 60px;
+}
+.profile-details h2, .profile-details h4{
+    margin: 0;
+}
+.edit{
+    margin-bottom: 20px;
+}
